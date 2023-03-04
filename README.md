@@ -1,4 +1,4 @@
-### :star2: <h2>About Me:</h2>
+### :star2: :thought_balloon: :computer: :airplane: :cake: <h2>About Me:</h2>
 
 Here are some ideas to get you started:
 
