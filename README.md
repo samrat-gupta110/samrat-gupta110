@@ -8,4 +8,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=samrat-gupta110&theme=tokyonight-duo)](https://git.io/streak-stats)
 
-Quick Start
+### 👨‍💻 <h1>Socials:</h1>
