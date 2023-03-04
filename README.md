@@ -1,7 +1,5 @@
 ### :star2: <h2>About Me:</h2>
 
-<hr></hr>
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Flutter Apps and Firebase
