@@ -1,4 +1,5 @@
-### Hi there 👋
+### About Me: 👋
+<hr></hr>
 
 **samrat-gupta110/samrat-gupta110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
