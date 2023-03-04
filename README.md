@@ -1,15 +1,6 @@
 ### :star2: About Me:
 
-hr {
-    border: none;
-    height: 1px;
-    /* Set the hr color */
-    color: #333; /* old IE */
-    background-color: #333; /* Modern Browsers */
-}
 <hr></hr>
-
-**samrat-gupta110/samrat-gupta110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
